@@ -12,6 +12,7 @@
 
         public int RoomID
         {
+            //Changes Sprint 2 - As a system administrator, I want to serve hundreds of users concurrently. - Sapphyre Rodriguez
             get;
             private set;
         }
